@@ -3,8 +3,8 @@
   "temas": [
     {
       "titulo": "Suma",
-      "presentacion_scene": "https://gist.githubusercontent.com/tuusuario/ABC/raw/PresentacionSuma.tscn",
-      "practica_scene": "https://gist.githubusercontent.com/tuusuario/XYZ/raw/PracticaSuma.tscn"
+      "presentacion_scene": "https://raw.githubusercontent.com/Dericop6/CursosTwotor/main/PresentacionSuma.tscn",
+      "practica_scene": "https://raw.githubusercontent.com/Dericop6/CursosTwotor/main/PracticaSuma.tscn"
     }
   ]
 }
