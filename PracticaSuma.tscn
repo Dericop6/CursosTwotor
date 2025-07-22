@@ -1,0 +1,35 @@
+[gd_scene load_steps=2 format=3 uid="uid://cnfcft2um67ti"]
+
+[ext_resource type="Script" path="res://Cursos/Matematicas/Tema1/PracticaSuma.gd" id="1_cqx8j"]
+
+[node name="PracticaSuma" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_cqx8j")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "¿Cuánto es 2+3?"
+
+[node name="LineEdit" type="LineEdit" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="BtnRevisar" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+text = "Revisar"
+
+[node name="LblResultado" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="BtnRetroceder" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+text = "Retroceder"
