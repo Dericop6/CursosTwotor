@@ -1,0 +1,16 @@
+{
+  "cursos": [
+    {
+      "nombre": "Matemáticas 1",
+      "carpeta": "mate1"
+    },
+    {
+      "nombre": "Matemáticas 2",
+      "carpeta": "mate2"
+    },
+    {
+      "nombre": "Física 1",
+      "carpeta": "fisica1"
+    }
+  ]
+}
