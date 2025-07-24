@@ -1,5 +1,6 @@
 {
   "nombre": "Matemáticas 1",
+  "base_url": "https://raw.githubusercontent.com/Dericop6/CursosTwotor/main/mate1/",
   "temas": [
     {
       "titulo": "Suma",
