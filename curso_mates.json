@@ -1,10 +1,15 @@
 {
-  "nombre": "Matemáticas Básicas",
+  "nombre": "Matemáticas 1",
   "temas": [
     {
       "titulo": "Suma",
-      "presentacion_scene": "https://raw.githubusercontent.com/Dericop6/CursosTwotor/main/PresentacionSuma.tscn",
-      "practica_scene": "https://raw.githubusercontent.com/Dericop6/CursosTwotor/main/PracticaSuma.tscn"
+      "presentacion": "PresentacionSuma.tscn",
+      "practica": "PracticaSuma.tscn"
+    },
+    {
+      "titulo": "Resta",
+      "presentacion": "PresentacionResta.tscn",
+      "practica": "PracticaResta.tscn"
     }
   ]
 }
