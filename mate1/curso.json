@@ -1,16 +1,15 @@
 {
   "nombre": "Matemáticas 1",
-  "base_url": "https://raw.githubusercontent.com/Dericop6/CursosTwotor/main/mate1/",
   "temas": [
     {
-      "titulo": "Suma",
-      "presentacion": "PresentacionSuma.tscn",
-      "practica": "PracticaSuma.tscn"
+      "nombre": "Resta",
+      "presentacion_scene": "PresentacionResta.tscn",
+      "practica_scene": "PracticaResta.tscn"
     },
     {
-      "titulo": "Resta",
-      "presentacion": "PresentacionResta.tscn",
-      "practica": "PracticaResta.tscn"
+      "nombre": "Suma",
+      "presentacion_scene": "PresentacionSuma.tscn",
+      "practica_scene": "PracticaSuma.tscn"
     }
   ]
 }
