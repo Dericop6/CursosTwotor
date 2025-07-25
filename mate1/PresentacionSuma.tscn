@@ -1,6 +1,6 @@
 [gd_scene load_steps=1 format=3 uid="uid://cnfcft2um67ti"]
 
-[node name="PracticaSuma" type="Control"]
+[node name="PresentacionSuma" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
