@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cnfcft2um67ti"]
 
-[ext_resource type="Script" path="res://Cursos/Matematicas/Tema1/PracticaSuma.gd" id="1_cqx8j"]
+[ext_resource type="Script" path="res://mate1/PresentacionSuma.gd" id="1_cqx8j"]
 
 [node name="PracticaSuma" type="Control"]
 layout_mode = 3
