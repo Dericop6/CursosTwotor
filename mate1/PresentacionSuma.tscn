@@ -1,6 +1,6 @@
-[gd_scene load_steps=1 format=3 uid="uid://cnfcft2um67ti"] # <-- ¡load_steps DEBE ser 1!
+[gd_scene load_steps=1 format=3 uid="uid://cnfcft2um67ti"]
 
-[node name="PracticaSuma" type="Control"] # <-- Nombre del nodo raíz
+[node name="PracticaSuma" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
