@@ -4,12 +4,16 @@
     {
       "nombre": "Resta",
       "presentacion_scene": "PresentacionResta.tscn",
-      "practica_scene": "PracticaResta.tscn"
+      "presentacion_script": "PresentacionResta.gd",
+      "practica_scene": "PracticaResta.tscn",
+      "practica_script": "PracticaResta.gd"
     },
     {
       "nombre": "Suma",
       "presentacion_scene": "PresentacionSuma.tscn",
-      "practica_scene": "PracticaSuma.tscn"
+      "presentacion_script": "PresentacionSuma.gd",
+      "practica_scene": "PracticaSuma.tscn",
+      "practica_script": "PracticaSuma.gd"
     }
   ]
 }
