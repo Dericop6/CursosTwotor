@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://d3iu6vox2tysb"]
 
-[ext_resource type="Script" path="res://Cursos/Matematicas/Tema2/PracticaResta.gd" id="1_04dwe"]
+[ext_resource type="Script" path="res://mate1/PracticaResta.gd" id="1_04dwe"]
 
 [node name="PracticaResta" type="Control"]
 layout_mode = 3
