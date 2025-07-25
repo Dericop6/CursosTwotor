@@ -1,7 +1,5 @@
 [gd_scene load_steps=2 format=3 uid="uid://bccetf4sb6tmp"]
 
-[ext_resource type="Script" path="res://mate1/PresentacionResta.gd" id="1_ucy22"]
-
 [node name="PresentacionResta" type="Control"]
 layout_mode = 3
 anchors_preset = 15
